@@ -1,4 +1,4 @@
-# 2023 CS50 Flask Sports Website
+# 2022 CS50 Flask Sports Website
 
 ![cs50](https://github.com/user-attachments/assets/b9b4fe60-71f5-4377-89f5-27a7a1056f54)
 
