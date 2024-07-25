@@ -4,7 +4,7 @@
 
 ## Inspiration
 
-I watched the CS50 course and YouTube and decided to code the material shown in the Flask section.
+I watched the CS50 course on YouTube and decided to code the material shown in the Flask section.
 
 ## Challenges
 
